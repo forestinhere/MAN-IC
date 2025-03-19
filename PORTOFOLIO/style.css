@@ -196,7 +196,7 @@ section {
 .about {
     padding: 3rem 2rem;
     text-align: center;
-    background: rgb(134, 92, 92);
+    background: rgb(87, 119, 71);
     border-radius: 0.7rem;
 }
 
@@ -274,23 +274,23 @@ h2 {
 }
 
 /* Warna untuk masing-masing skill dan sesuai persentase */
-.progress-bar.adobe-illustrator {
+.progress-bar.writing {
+    background-color: #6fae6f;
+    width: 80%;
+}
+
+.progress-bar.analysts {
     background-color: #a4bda4;
     width: 85%;
 }
 
-.progress-bar.adobe-after-effects {
-    background-color: #a4bda4;
-    width: 75%;
-}
-
-.progress-bar.videography {
-    background-color: #a4bda4;
-    width: 80%;
+.progress-bar.decorating {
+    background-color: #8ab58a;
+    width: 90%;
 }
 
 .progress-bar.html {
-    background-color: #a4bda4;
+    background-color: #7bb17b;
     width: 80%;
 }
 
